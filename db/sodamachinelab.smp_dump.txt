@@ -1,0 +1,22 @@
+
+State Machine - |sodamachinelab|Sreg
+Name Sreg.V1 Sreg.V0 Sreg.SEL6 Sreg.SEL5 Sreg.SEL4 Sreg.SEL3 Sreg.SEL2 Sreg.SEL1 Sreg.SEL0 Sreg.CA4X Sreg.CA3X Sreg.CA2X Sreg.CA1X Sreg.VENX Sreg.VEND Sreg.SC175 Sreg.SC17 Sreg.SC1 Sreg.WAIT 
+Sreg.WAIT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Sreg.SC1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+Sreg.SC17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+Sreg.SC175 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+Sreg.VEND 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+Sreg.VENX 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+Sreg.CA1X 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+Sreg.CA2X 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+Sreg.CA3X 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+Sreg.CA4X 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+Sreg.SEL0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+Sreg.SEL1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.SEL2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.SEL3 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.SEL4 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.SEL5 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.SEL6 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.V0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Sreg.V1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
